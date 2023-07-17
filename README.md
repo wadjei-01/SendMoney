@@ -1,5 +1,4 @@
 # SendMoney
-=======
 This project is a single-page application that displays transaction history. It allows users to view their transaction details in a user-friendly and intuitive interface. This project is a redo of the initial implementation, as the original code was lost due to an error encountered on GitHub.
 
 ## Installation
